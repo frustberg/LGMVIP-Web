@@ -1,0 +1,23 @@
+{
+  "name": "lgm_vip_task_4",
+  "version": "1.0.0",
+  "description": "LGM VIP Task-4",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frustberg/LGMVIP-Web.git"
+  },
+  "author": "Abhishek Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frustberg/LGMVIP-Web/issues"
+  },
+  "homepage": "https://github.com/frustberg/LGMVIP-Web#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
